@@ -1,2 +1,0 @@
-# Artigo
-Artigo tcc
